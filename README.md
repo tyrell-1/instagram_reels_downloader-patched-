@@ -4,7 +4,7 @@ This project is an Instagram Reel scraper that uses the `aiohttp`, `BeautifulSou
 ## Installation
 To install this project, you will need to have Python 3.6 or higher installed. Once you have Python installed, you can install this project using the following command:
 
-```pip install instagram-reel-scraper```
+```pip install -r requirements.txt```
 
 ## Usage
 To use this project, you will need to have an Instagram account and the reel URL that you want to scrape. Once you have these, you can use the following code to scrape the reel:
