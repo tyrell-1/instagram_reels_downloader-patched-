@@ -2,7 +2,7 @@
 This project is an Instagram Reel scraper that uses the `aiohttp`, `BeautifulSoup` and `requests` libraries to fetch and parse JSON data from Instagram, extract hashtags from the reel description, and save the reel to file.
 
 ## Installation
-To install this project, you will need to have Python 3.6 or higher installed. Once you have Python installed, you can install this project using the following command:
+To install this project, you will need to have Python 3.6 or higher installed. Once you have Python installed, you can install the required libraries for this project using the following command:
 
 ```pip install -r requirements.txt```
 
