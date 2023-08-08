@@ -7,10 +7,10 @@ To install this project, you will need to have Python 3.6 or higher installed. O
 ```pip install -r requirements.txt```
 
 ## Usage
-To use this project, you will need to have an Instagram account and the reel URL that you want to scrape. Once you have these, you can use the following code to scrape the reel:
+You can use the following code to scrape the reel:
 
 ```python
-from instagram_reel_scraper import InstagramReel
+from instagram_reel_downloader import InstagramReel
 
 reel = InstagramReel(reel_url)
 
