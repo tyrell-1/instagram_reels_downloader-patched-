@@ -1,4 +1,4 @@
-## Instagram Reel Scraper
+## Instagram Reel Scraper [PATCHED]
 This project is an Instagram Reel scraper that uses the `aiohttp`, `BeautifulSoup` and `requests` libraries to fetch and parse JSON data from Instagram, extract hashtags from the reel description, and save the reel to file.
 
 ## Installation
